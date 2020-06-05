@@ -137,7 +137,7 @@ Mappings:
     python:
       stackName: 64bit Amazon Linux 2018.03 v2.7.3 running Python 2.7
     python3:
-      stackName: 64bit Amazon Linux 2018.03 v2.7.3 running Python 3.6
+      stackName: 64bit Amazon Linux 2018.03 v2.9.10 running Python 3.6
 
 Resources:
 
